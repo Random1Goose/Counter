@@ -1,2 +1,2 @@
 # Counter
-This is a project I made with HTML,
+This is a project I made with HTML , CSS, and JavaScript.
